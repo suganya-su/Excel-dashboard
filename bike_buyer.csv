@@ -1,0 +1,34 @@
+﻿TOTAL CUSTOMERS1000,Count of ID,,
+,1000,,
+,,,
+Average of Income,Column Labels,,
+Row Labels,No,Yes,Grand Total
+Female,53440.00,55774.06,54580.78
+Male,56208.18,60123.97,58062.62
+Grand Total,54874.75915,57962.57796,56360
+,,,
+Count of Purchased Bike,Column Labels,,
+Row Labels,No,Yes,Grand Total
+ADULT,48,35,83
+MIDDLE,393,409,802
+OLD,78,37,115
+Grand Total,519,481,1000
+,,,
+Count of Age Category,Column Labels,,
+Row Labels,No,Yes,Grand Total
+0-1 Miles,166,200,366
+1-2 Miles,92,77,169
+2-5 Miles,67,95,162
+5-10 Miles,116,76,192
+More than 10 miles,78,33,111
+Grand Total,519,481,1000
+,,,
+Count of Purchased Bike,Column Labels,,
+Row Labels,No,Yes,Grand Total
+110000,8,8,16
+120000,8,10,18
+130000,17,15,32
+150000,1,3,4
+160000,0,3,3
+170000,2,1,3
+Grand Total,36,40,76
